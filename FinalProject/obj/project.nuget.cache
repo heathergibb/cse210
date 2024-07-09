@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DBbs9BmsNK8dijEucrVlrH+1YJCQPlhI6qKpa62MB/7Umgi1idyjLdUQaz9pI0/hvQscgZaJZpvVEWXPw1f+SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gibbs\\OneDrive\\Documents\\Heather\\Pathway\\CSE 210 Programming with Classes\\cse210-projects\\final\\FinalProject\\FinalProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gibbs\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gibbs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gibbs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gibbs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
